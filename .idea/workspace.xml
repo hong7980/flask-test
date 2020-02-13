@@ -99,7 +99,7 @@
       <workItem from="1581419094058" duration="3620000" />
       <workItem from="1581566567708" duration="946000" />
       <workItem from="1581571285083" duration="1456000" />
-      <workItem from="1581575325736" duration="1679000" />
+      <workItem from="1581575325736" duration="1919000" />
     </task>
     <task id="LOCAL-00001" summary="pycharm提交v0.1">
       <created>1581571581904</created>
@@ -108,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581571581904</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="pycharm提交v0.1">
+      <created>1581580450304</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581580450304</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,30 +127,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="pycharm提交v0.1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1581571580859">
+    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1581580449250">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581571580859" />
+    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581580449250" />
     <state x="485" y="223" key="FileChooserDialogImpl" timestamp="1581566851559">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="485" y="223" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581566851559" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1581580247965">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1581580673954">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581580247965" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1581580247965">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581580673954" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1581580673954">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581580247965" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1581580247965">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581580673954" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1581580673954">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581580247965" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1581580247965">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581580673954" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1581580673954">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581580247965" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581580673954" />
     <state width="1342" height="242" key="GridCell.Tab.1.bottom" timestamp="1581566959643">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -176,9 +183,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="560" y="310" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1581580435751" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1581580528624">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1581580528624" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/flask_test$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1581580247949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/flask_test$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1581580570881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/flask$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1581421439372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
