@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18ea1419-e699-483c-9586-2c9df4c3dec6" name="Default Changelist" comment="pycharm提交v0.1">
-      <change afterPath="$PROJECT_DIR$/.flaskenv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/dotenv/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/dotenv/cli.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/dotenv/compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/dotenv/ipython.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/dotenv/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/dotenv/parser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/dotenv/py.typed" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/dotenv/version.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/python_dotenv-0.11.0.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/python_dotenv-0.11.0.dist-info/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/python_dotenv-0.11.0.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/python_dotenv-0.11.0.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/python_dotenv-0.11.0.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/python_dotenv-0.11.0.dist-info/entry_points.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/python_dotenv-0.11.0.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env/Scripts/dotenv.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="18ea1419-e699-483c-9586-2c9df4c3dec6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
@@ -118,8 +98,17 @@
       <updated>1581419061208</updated>
       <workItem from="1581419094058" duration="3620000" />
       <workItem from="1581566567708" duration="946000" />
-      <workItem from="1581571285083" duration="257000" />
+      <workItem from="1581571285083" duration="1456000" />
+      <workItem from="1581575325736" duration="1679000" />
     </task>
+    <task id="LOCAL-00001" summary="pycharm提交v0.1">
+      <created>1581571581904</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581571581904</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,30 +120,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="pycharm提交v0.1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1581571539335">
+    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1581571580859">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581571539335" />
+    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581571580859" />
     <state x="485" y="223" key="FileChooserDialogImpl" timestamp="1581566851559">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="485" y="223" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581566851559" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1581571156094">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1581580247965">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581571156094" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1581571156094">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581580247965" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1581580247965">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581571156094" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1581571156094">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581580247965" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1581580247965">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581571156094" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1581571156094">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581580247965" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1581580247965">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581571156094" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581580247965" />
     <state width="1342" height="242" key="GridCell.Tab.1.bottom" timestamp="1581566959643">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -175,17 +164,21 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="540" y="102" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581571098488" />
-    <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1581571305054">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1581571593556">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581571305054" />
-    <state x="560" y="310" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581571001476">
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581571593556" />
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1581575373512">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="560" y="310" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1581571001476" />
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581575373512" />
+    <state x="560" y="310" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581580435751">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="560" y="310" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1581580435751" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/flask_test$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1581567061144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/flask_test$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1581580247949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/flask$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1581421439372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
