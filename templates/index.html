@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ name }}'s Ulist</title>
+</head>
+<body>
+    <h2>{{ name }}'s list</h2>
+    <p>{{ movies|length }} Titles</p>
+    <ul>
+        {% for movie in movies %}
+        <li>{{ movie.title }} - {{ movie.year }}</li>
+        {% endfor %}
+        </ul>
+        <footer>
+            <small>&copy; 2018 <a href="http://www.hong7980.top">Hello 3D 元素</a></small>
+        </footer>
+    <img src="{{ url_for('static',filename='1.jpg') }}">
+</body>
+</html>
