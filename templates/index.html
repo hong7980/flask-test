@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>{{ name }}'s Ulist</title>
+    <link rel="stylesheet" href="{{ url_for('static',filename='style.css') }}" type="text/css">
 </head>
 <body>
     <h2>{{ name }}'s list</h2>
@@ -15,6 +16,6 @@
         <footer>
             <small>&copy; 2018 <a href="http://www.hong7980.top">Hello 3D 元素</a></small>
         </footer>
-    <img src="{{ url_for('static',filename='1.jpg') }}">
+    <img alt="Totoro" class="totoro" src="{{ url_for('static',filename='1.jpg') }}">
 </body>
 </html>

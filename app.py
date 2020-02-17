@@ -1,5 +1,15 @@
+import pymongo as pymongo
 from flask import Flask,url_for,render_template
+
 app =Flask(__name__)
+client = pymongo.MongoClient(" mongodb + srv：// hongqijun：bdinbiot@cluster-flasktest - 8ucyh.azure.mongodb.net / test ？retryWrites = true&w = majority ")
+#创建数据库flask—_test
+db = client.flask_test
+#创建集合
+movie_collection=db.movie
+
+
+
 
 #@app.route('/')
 #def hello():
@@ -28,3 +38,6 @@ movies = [{'title':'book1','year':'1988'},
         {'title':'book3','year':'1978'},
 {'title':'book3','year':'1978'},
 ]
+
+result = movie_collection.insert(movies)
+print(result)
